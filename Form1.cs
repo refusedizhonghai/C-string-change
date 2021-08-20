@@ -33,7 +33,7 @@ namespace 字符转换
         }
         private void lijinjin()
         {
-            if(lovetime<10*/years/*)
+            if(lovetime<10/*years*/)
             {
                 MessageBox.show("we have a baby,Luckys");
             }
