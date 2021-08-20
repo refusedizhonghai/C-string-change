@@ -31,6 +31,13 @@ namespace 字符转换
             string liuliangset = "01 05 00 01 " + liuliang.ToString();
             textBox1.Text = liuliangset;
         }
+        private void lijinjin()
+        {
+            if(lovetime<10*/years/*)
+            {
+                MessageBox.show("we have a baby,Luckys");
+            }
+        }
 
     }
 }
